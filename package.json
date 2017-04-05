@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/abhay78/piSpaceStation#readme",
   "dependencies": {
+    "geolib": "^2.0.22",
     "got": "^6.7.1"
   }
 }
